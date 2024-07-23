@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Atmiya Patel 👋
+
+## About Myself
+I am an Honour's Computer Science student who is passionate about technology.
+
+
 
 <!--
 **atmiya-p/atmiya-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
