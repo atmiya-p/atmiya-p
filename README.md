@@ -1,7 +1,10 @@
 # Hi there, I'm Atmiya Patel 👋
 
-## About Myself
-I am an Honour's Computer Science student who is passionate about technology.
+## I'm an Honour's Computer Science student and aspiring Software Developer
+
+🔭 I’m currently working on a live flight tracker software ✈️
+
+
 
 
 
