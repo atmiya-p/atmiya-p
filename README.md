@@ -1,4 +1,4 @@
-## Hi there, I'm Atmiya Patel 👋
+# Hi there, I'm Atmiya Patel 👋
 
 ## About Myself
 I am an Honour's Computer Science student who is passionate about technology.
