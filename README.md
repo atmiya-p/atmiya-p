@@ -3,6 +3,7 @@
 ## I'm an Honour's Computer Science student and aspiring Software Developer
 
 🔭 I’m currently working on a live flight tracker software ✈️
+📫 Contact me on [Linkedin](nkedin.com/in/atmiya-patel-0aa9b0252/) 
 
 
 
