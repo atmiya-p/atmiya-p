@@ -9,7 +9,7 @@
 - 🔭 I'm also currently working on rental property scraper which will help people in Ontario search for rental properties 🏠
 -  📫 Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/atmiya-patel-0aa9b0252/) 
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
