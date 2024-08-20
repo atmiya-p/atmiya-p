@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on a live flight tracker software ✈️
 - 🔭 I'm also currently working on rental property scraper which will help people in Ontario search for rental properties 🏠
--  📫 Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/atmiya-patel-0aa9b0252/) 
+- 💼 Currently looking for Summer 2025 tech internships!
+- 📫 Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/atmiya-patel-0aa9b0252/) 
 
 ### :hammer_and_wrench: Languages and Tools :
 
