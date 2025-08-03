@@ -5,7 +5,7 @@
 
 ## I'm an Honour's Computer Science student and aspiring Software Developer
 
-- 🔭 I'm currently working on rental property scraper which will help people in Ontario search for rental properties 🏠
+- 🔭 I'm currently working on an AI chat to SQL translator that does the backend SQL commands using NLP
 - 💼 I am always looking for cool projects to work on!
 - 📫 Please feel free to contact me on [Linkedin](https://www.linkedin.com/in/atmiya-patel-0aa9b0252/) 
 
